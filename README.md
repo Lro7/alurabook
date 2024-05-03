@@ -9,6 +9,12 @@ Projeto feito durante o curso de responsividade da alura
 
 * Flex-box
 
+* media
+
+*  Swiper JS
+
+* Media Querie
+
 ## Feito por:
 
 ### Lauro S. Custodio
